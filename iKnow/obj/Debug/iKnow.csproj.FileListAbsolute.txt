@@ -1,0 +1,10 @@
+C:\Users\Siny\source\repos\iKnow\iKnow\bin\Debug\iKnow.exe.config
+C:\Users\Siny\source\repos\iKnow\iKnow\bin\Debug\iKnow.exe
+C:\Users\Siny\source\repos\iKnow\iKnow\bin\Debug\iKnow.pdb
+C:\Users\Siny\source\repos\iKnow\iKnow\obj\Debug\iKnow.csproj.AssemblyReference.cache
+C:\Users\Siny\source\repos\iKnow\iKnow\obj\Debug\iKnow.Form1.resources
+C:\Users\Siny\source\repos\iKnow\iKnow\obj\Debug\iKnow.Properties.Resources.resources
+C:\Users\Siny\source\repos\iKnow\iKnow\obj\Debug\iKnow.csproj.GenerateResource.cache
+C:\Users\Siny\source\repos\iKnow\iKnow\obj\Debug\iKnow.csproj.CoreCompileInputs.cache
+C:\Users\Siny\source\repos\iKnow\iKnow\obj\Debug\iKnow.exe
+C:\Users\Siny\source\repos\iKnow\iKnow\obj\Debug\iKnow.pdb
